@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c192c8bd-d444-4b30-b9e4-7a79ede340d8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Chinese I (Streamlined)",
+  "course_description": "This course, along with [21G.108 / 158](/courses/21g-108-chinese-ii-streamlined-spring-2015/) offered in the spring, form the elementary level of the streamlined sequence, which is for students who have some basic conversational skills gained, typically, from growing up in a Chinese speaking environment, but lack a corresponding level of literacy. The focus of the course is on learning standard everyday usage, on reading in both full and simplified characters, and on writing. This course, along with [21G.108 / 158](/courses/21g-108-chinese-ii-streamlined-spring-2015/) offered in the spring, are conducted entirely in Chinese.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.157,21G.181",
+  "primary_course_number": "21G.107",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Course Introduction",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
